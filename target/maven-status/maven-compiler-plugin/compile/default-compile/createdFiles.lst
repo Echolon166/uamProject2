@@ -1,0 +1,12 @@
+p2\DatabaseData.class
+p2\hibernateModel\PublisherContactInfo.class
+p2\JsonDatabase.class
+p2\hibernateModel\Publisher.class
+p2\hibernateModel\Category.class
+p2\MainClass.class
+p2\hibernateModel\Book.class
+p2\JsonDatabase$1.class
+p2\hibernateModel\AuthorContactInfo.class
+p2\XmlDatabase.class
+p2\hibernateModel\Author.class
+p2\XmlDatabase$1.class
